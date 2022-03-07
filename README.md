@@ -19,4 +19,5 @@ pyinstaller --noconfirm --onefile --windowed  .\main.py
 git add --all
 git commit -m ":fire:"
 git push
+
 ```
