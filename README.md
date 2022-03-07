@@ -5,7 +5,7 @@
 python -m venv venv
 
 # instalar PyQt5
-pip3 install PyQt5
+pip3 install PyQt5 PyQt5-tools
 
 # converter .UI par .PY
 python -m PyQt5.uic.pyuic -x interface.ui -o interface.py
