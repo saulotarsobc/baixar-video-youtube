@@ -2,3 +2,4 @@ __*
 build
 *.spec
 venv
+dist/thumb.jpg
